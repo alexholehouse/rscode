@@ -1,0 +1,55 @@
+sp|Q15696|U2AFM_HUMAN U2 small nuclear ribonucleoprotein auxiliary factor 35 kDa subunit-related protein 2 OS=Homo sapiens GN=ZRSR2 PE=1 SV=2
+sp|Q9H307|PININ_HUMAN Pinin OS=Homo sapiens GN=PNN PE=1 SV=4
+sp|Q01130|SRSF2_HUMAN Serine/arginine-rich splicing factor 2 OS=Homo sapiens GN=SRSF2 PE=1 SV=4
+sp|Q9Y383|LC7L2_HUMAN Putative RNA-binding protein Luc7-like 2 OS=Homo sapiens GN=LUC7L2 PE=1 SV=2
+sp|Q8WXF0|SRS12_HUMAN Serine/arginine-rich splicing factor 12 OS=Homo sapiens GN=SRSF12 PE=2 SV=1
+sp|O95232|LC7L3_HUMAN Luc7-like protein 3 OS=Homo sapiens GN=LUC7L3 PE=1 SV=2
+sp|Q9Y2W1|TR150_HUMAN Thyroid hormone receptor-associated protein 3 OS=Homo sapiens GN=THRAP3 PE=1 SV=2
+sp|Q8TF01|PNISR_HUMAN Arginine/serine-rich protein PNISR OS=Homo sapiens GN=PNISR PE=1 SV=2
+sp|Q9UBK2|PRGC1_HUMAN Peroxisome proliferator-activated receptor gamma coactivator 1-alpha OS=Homo sapiens GN=PPARGC1A PE=1 SV=1
+sp|A6NNA2|SRRM3_HUMAN Serine/arginine repetitive matrix protein 3 OS=Homo sapiens GN=SRRM3 PE=2 SV=4
+sp|Q9BUV0|RSRP1_HUMAN Arginine/serine-rich protein 1 OS=Homo sapiens GN=RSRP1 PE=1 SV=2
+sp|Q7Z6E9|RBBP6_HUMAN E3 ubiquitin-protein ligase RBBP6 OS=Homo sapiens GN=RBBP6 PE=1 SV=1
+sp|Q86U06|RBM23_HUMAN Probable RNA-binding protein 23 OS=Homo sapiens GN=RBM23 PE=1 SV=1
+sp|Q02040|AK17A_HUMAN A-kinase anchor protein 17A OS=Homo sapiens GN=AKAP17A PE=1 SV=2
+sp|Q9UKJ3|GPTC8_HUMAN G patch domain-containing protein 8 OS=Homo sapiens GN=GPATCH8 PE=1 SV=2
+sp|Q14498|RBM39_HUMAN RNA-binding protein 39 OS=Homo sapiens GN=RBM39 PE=1 SV=2
+sp|Q07955|SRSF1_HUMAN Serine/arginine-rich splicing factor 1 OS=Homo sapiens GN=SRSF1 PE=1 SV=2
+sp|Q9UK58|CCNL1_HUMAN Cyclin-L1 OS=Homo sapiens GN=CCNL1 PE=1 SV=1
+sp|Q9NQ29|LUC7L_HUMAN Putative RNA-binding protein Luc7-like 1 OS=Homo sapiens GN=LUC7L PE=1 SV=1
+sp|Q7L4I2|RSRC2_HUMAN Arginine/serine-rich coiled-coil protein 2 OS=Homo sapiens GN=RSRC2 PE=1 SV=1
+sp|Q13595|TRA2A_HUMAN Transformer-2 protein homolog alpha OS=Homo sapiens GN=TRA2A PE=1 SV=1
+sp|Q9UPN6|SCAF8_HUMAN Protein SCAF8 OS=Homo sapiens GN=SCAF8 PE=1 SV=1
+sp|Q5VV67|PPRC1_HUMAN Peroxisome proliferator-activated receptor gamma coactivator-related protein 1 OS=Homo sapiens GN=PPRC1 PE=1 SV=1
+sp|O95218|ZRAB2_HUMAN Zinc finger Ran-binding domain-containing protein 2 OS=Homo sapiens GN=ZRANB2 PE=1 SV=2
+sp|Q9NWB6|ARGL1_HUMAN Arginine and glutamate-rich protein 1 OS=Homo sapiens GN=ARGLU1 PE=1 SV=1
+sp|Q9UQ35|SRRM2_HUMAN Serine/arginine repetitive matrix protein 2 OS=Homo sapiens GN=SRRM2 PE=1 SV=2
+sp|Q05519|SRS11_HUMAN Serine/arginine-rich splicing factor 11 OS=Homo sapiens GN=SRSF11 PE=1 SV=1
+sp|Q08170|SRSF4_HUMAN Serine/arginine-rich splicing factor 4 OS=Homo sapiens GN=SRSF4 PE=1 SV=2
+sp|Q8WVK2|SNR27_HUMAN U4/U6.U5 small nuclear ribonucleoprotein 27 kDa protein OS=Homo sapiens GN=SNRNP27 PE=1 SV=1
+sp|Q8IYB3|SRRM1_HUMAN Serine/arginine repetitive matrix protein 1 OS=Homo sapiens GN=SRRM1 PE=1 SV=2
+sp|Q13243|SRSF5_HUMAN Serine/arginine-rich splicing factor 5 OS=Homo sapiens GN=SRSF5 PE=1 SV=1
+sp|Q9BRL6|SRSF8_HUMAN Serine/arginine-rich splicing factor 8 OS=Homo sapiens GN=SRSF8 PE=1 SV=1
+sp|Q8NAV1|PR38A_HUMAN Pre-mRNA-splicing factor 38A OS=Homo sapiens GN=PRPF38A PE=1 SV=1
+sp|Q9NS56|TOPRS_HUMAN E3 ubiquitin-protein ligase Topors OS=Homo sapiens GN=TOPORS PE=1 SV=1
+sp|Q15287|RNPS1_HUMAN RNA-binding protein with serine-rich domain 1 OS=Homo sapiens GN=RNPS1 PE=1 SV=1
+sp|A7MD48|SRRM4_HUMAN Serine/arginine repetitive matrix protein 4 OS=Homo sapiens GN=SRRM4 PE=1 SV=2
+sp|P62995|TRA2B_HUMAN Transformer-2 protein homolog beta OS=Homo sapiens GN=TRA2B PE=1 SV=1
+sp|O95104|SFR15_HUMAN Splicing factor, arginine/serine-rich 15 OS=Homo sapiens GN=SCAF4 PE=1 SV=3
+sp|P84103|SRSF3_HUMAN Serine/arginine-rich splicing factor 3 OS=Homo sapiens GN=SRSF3 PE=1 SV=1
+sp|Q7L014|DDX46_HUMAN Probable ATP-dependent RNA helicase DDX46 OS=Homo sapiens GN=DDX46 PE=1 SV=2
+sp|Q8WXA9|SREK1_HUMAN Splicing regulatory glutamine/lysine-rich protein 1 OS=Homo sapiens GN=SREK1 PE=1 SV=1
+sp|Q14004|CDK13_HUMAN Cyclin-dependent kinase 13 OS=Homo sapiens GN=CDK13 PE=1 SV=2
+sp|Q9NYV4|CDK12_HUMAN Cyclin-dependent kinase 12 OS=Homo sapiens GN=CDK12 PE=1 SV=2
+sp|Q8N2M8|CLASR_HUMAN CLK4-associating serine/arginine rich protein OS=Homo sapiens GN=CLASRP PE=1 SV=4
+sp|Q9NYF8|BCLF1_HUMAN Bcl-2-associated transcription factor 1 OS=Homo sapiens GN=BCLAF1 PE=1 SV=2
+sp|Q16629|SRSF7_HUMAN Serine/arginine-rich splicing factor 7 OS=Homo sapiens GN=SRSF7 PE=1 SV=1
+sp|Q13247|SRSF6_HUMAN Serine/arginine-rich splicing factor 6 OS=Homo sapiens GN=SRSF6 PE=1 SV=2
+sp|Q8IWX8|CHERP_HUMAN Calcium homeostasis endoplasmic reticulum protein OS=Homo sapiens GN=CHERP PE=1 SV=3
+sp|Q9H7N4|SFR19_HUMAN Splicing factor, arginine/serine-rich 19 OS=Homo sapiens GN=SCAF1 PE=1 SV=3
+sp|Q14966|ZN638_HUMAN Zinc finger protein 638 OS=Homo sapiens GN=ZNF638 PE=1 SV=2
+sp|P49760|CLK2_HUMAN Dual specificity protein kinase CLK2 OS=Homo sapiens GN=CLK2 PE=1 SV=1
+sp|Q13523|PRP4B_HUMAN Serine/threonine-protein kinase PRP4 homolog OS=Homo sapiens GN=PRPF4B PE=1 SV=3
+sp|P30414|NKTR_HUMAN NK-tumor recognition protein OS=Homo sapiens GN=NKTR PE=1 SV=2
+sp|Q96IZ7|RSRC1_HUMAN Serine/Arginine-related protein 53 OS=Homo sapiens GN=RSRC1 PE=1 SV=1
+sp|P18583|SON_HUMAN Protein SON OS=Homo sapiens GN=SON PE=1 SV=4
